@@ -1,29 +1,26 @@
-## README
 
-### ¿Quieres conocer el estado de tus tiendas?¿Qué piensan de ellas tus clientes? 
+The following is a mystery shopper study with the aim of obtaining information, evaluating, measuring the level of quality, customer service and assessing your performance. 
+and evaluate their performance
 
-A continuación se presenta un estudio de un cliente misterioso con el objetivo obtener información, evaluar, medir el nivel de calidad, atención de servicio al cliente 
-y valorar sus prestaciones
+###Objective 🏃
 
-###Objetivo 🏃
+To carry out a study of the situation of the most important garage network in Spain, carry out an analysis with the competition and
 
-Realizar un estudio de situación de la red de talleres más importante de España, realizar un analisis con la competencia y
+combining it with the anonymous experience of a customer. 
 
-uniendolo con la experiencia anonima de un cliente 
+Translated with www.DeepL.com/Translator (free version)
 
 
 ###Data/Architecture 💻
 
 ![image](https://user-images.githubusercontent.com/102686594/201361603-b4e72693-05b6-4cb5-a717-47e2ce7c7916.png)
 
+### Configuration 🔧
+It is necessary to have all the libraries described, as well as to have POWER BI Desktop downloaded on the computer and an environment on the computer to be able to work with Jupyter Notebook if necessary.
 
+Important: Sqlalchemy allows us to work with SQL language. It is also necessary to install SQLite to be able to work in Power BI. 
 
-
-### Configuracion 🔧
-Es necesario de todas la librerías descritas, así como tener descargada en el ordenador POWER BI Desktop y un entorno en el ordenador para poder trabajar con Jupyter Notebook si se considera necesario.
-
-Importante: Sqlalchemy nos permite trabajar con lenguaje SQL. Además es necesaria la instación de SQLite para poder trabajar en Power BI. 
-
-###Siguientes pasos 🙈
+###Next steps 🙈
 
 - RLS (Row Level Security)
+
