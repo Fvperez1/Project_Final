@@ -25,5 +25,5 @@ Es necesario de todas la librerías descritas, así como tener descargada en el 
 Importante: Sqlalchemy nos permite trabajar con lenguaje SQL. Además es necesaria la instación de SQLite para poder trabajar en Power BI. 
 
 ###Siguientes pasos 🙈
-- Conexión directa a la API de Kaggle
-- Refactorización del código
+
+- RLS (Row Level Security)
